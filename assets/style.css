@@ -1,6 +1,7 @@
-html {
+body {
     font-size: 10px;
-    background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+    background: url("./images/killYourself.jpg") bottom center;
+    background-color: black;
     background-size: cover;
   }
   
